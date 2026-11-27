@@ -33,14 +33,6 @@ Focused on building strong programming fundamentals and real projects.
 
 ---
 
-### Projects
-
-- **[Portfolio Website](#)** – Personal portfolio built with HTML, CSS & JavaScript  
-- **[Project Name 2](#)** – Short description  
-- **[Project Name 3](#)** – Short description  
-
----
-
 ### About Me
 
 I am currently focused on improving my programming skills, building projects regularly, and developing discipline in both technical and personal growth. I believe in consistent effort and clean, practical work.
@@ -55,5 +47,4 @@ I am currently focused on improving my programming skills, building projects reg
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish07-dev-UI)
